@@ -118,7 +118,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **VALIDATION** Ce projet a été validé par le ministère de la Santé Tchèque.
 - **TEMPS PAR UNITE** 2h / imprimante
 - **CAHIER DES CHARGES**
-  - 32g de filament
+  - 32g de filament PLA ou PET
   - Feuille de plastique transparent d'environ 0.5mm au format A4
   - Rouleau de bande élastique
 - **MATERIEL**
@@ -127,7 +127,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **PRIX PAR UNITE** 1-2€
   
 <!-- ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2") -->
-<img src="./assets/images/prusa-rc2.jpeg" height="200"/>
+<img src="./assets/images/prusa-rc2.png" height="250"/>
 
 ---
 
@@ -145,7 +145,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **PRIX PAR UNITE** 1-2€
   
 <!-- ![Visière Laser](/assets/images/visiere-laser.png "Visière Laser") -->
-<img src="./assets/images/visiere-laser.jpeg" height="200"/>
+<img src="./assets/images/visiere-laser.png" height="250"/>
 
 ---
 
@@ -180,7 +180,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **PRIX PAR UNITE** 5€
 
 <!-- ![Masque Copper](/assets/images/masque-copper-2.png "Masque Copper") -->
-<img src="./assets/images/masque-copper-2.jpeg" height="200"/>
+<img src="./assets/images/masque-copper-2.png" height="250"/>
 
 ---
 
@@ -237,8 +237,16 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 - **VALIDATION** En cours, plusieurs médecins ont validé.
 - **SITE** <https://docs.google.com/document/d/1ly9UT5F0uIXBLi50U1m13eHRYHaN_rhwDnVimA0W1iI/edit>
   
-![Respirateur Ambubag](/assets/images/respirateur-ambubag-1.png "respirateur ambubag")
-![Respirateur Ambubag](/assets/images/respirateur-ambubag-2.png "respirateur ambubag")
+<!-- ![Respirateur Ambubag](/assets/images/respirateur-ambubag-1.png "respirateur ambubag")
+![Respirateur Ambubag](/assets/images/respirateur-ambubag-2.png "respirateur ambubag") -->
+<div>
+  <span>
+    <img src="./assets/images/respirateur-ambubag-1.png" height="250"/>
+  </span>
+  <span>
+    <img src="./assets/images/respirateur-ambubag-2.png" height="250"/>
+  </span>
+</div>
 
 ---
 
@@ -250,7 +258,8 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
   - <https://gitlab.com/TrevorSmale/OSV-OpenLung>
   - <https://opensourceventilator.ie/>
 
-![Respirateur OpenLung](/assets/images/respirateur-openlung.png "respirateur openlung")
+<!-- ![Respirateur OpenLung](/assets/images/respirateur-openlung.png "respirateur openlung") -->
+<img src="./assets/images/respirateur-openlung.png" height="250"/>
 
 ---
 
@@ -259,7 +268,8 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 - **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé, le matériel est déja homologué (pas ses modifications).
 - **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
 
-![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP")
+<!-- ![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP") -->
+<img src="./assets/images/respirateur-cpap.png" height="250"/>
 
 ---
 
@@ -276,7 +286,8 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
   - Besoin de connaitre les modèles des hôpitaux français, les tailles d'entrée, sortie pour le design paramétrique.
   - A quel point cela gène-t'il les patients?
 
-![Valve de dédoublement](/assets/images/valve-dedoublement.png "2-way valve")
+<!-- ![Valve de dédoublement](/assets/images/valve-dedoublement.png "2-way valve") -->
+<img src="./assets/images/valve-dedoublement.png" height="250"/>
 
 ---
 
