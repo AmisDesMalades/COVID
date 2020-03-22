@@ -63,9 +63,10 @@ Avec le soutien des associations:
 
 ## Liste des appels à projet et concours internationaux COVID <a name="concours"></a>
 
-- [Ministère de la Défense France - Appel à projets](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
+- [Ministère de la Défense France - Appel à projets 10M€](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
 - [Université Mc Gill Canada - Concours de design industriel](https://www.agorize.com/fr/challenges/code-life-challenge)
 - [Irlande - Ventilateur opensource](https://opensourceventilator.ie/)
+- [Appel à projets UE 164M€](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en)
 
 ## Cours en ligne gratuits COVID-19 <a name="cours"></a>
 
