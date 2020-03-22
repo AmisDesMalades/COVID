@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD033 -->
 # Liste des projets open-hardware COVID-FR
 
-Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19.
+Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19. ([Matériel libre](https://fr.wikipedia.org/wiki/Mat%C3%A9riel_libre))
 
-IMPORTANT: Ces différents projets de matériel médical d'urgence open-source ne sont pas homologués. Il proviennent d'un effort collectif international pour trouver des solutions très rapides aux pénuries due au COVID-19.
+IMPORTANT: Ces différents projets de matériel médical d'urgence open-source ne sont pas homologués. Il proviennent d'un effort collectif international pour trouver des solutions très rapides aux pénuries liées au COVID-19.
 Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) que vous pouvez déjà imprimer et assembler.
 
 Avec le soutien des associations:
@@ -40,7 +40,7 @@ Avec le soutien des associations:
       4. [Valve de dédoublement](#valve-dedoublement)
    3. [Autres](#autres)
       1. [Respirateur vétérinaire](#respirateur-veterinaire)
-3. [FAQ]
+3. [FAQ](#faq)
 
 ## Présentation <a name="presentation"></a>
 
@@ -188,7 +188,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 
 #### Projet de masque réutilisables à pression positive PAPR (Statut: En cours) <a name="papr"></a>
 
-- **PRESENTATION** Les "respirateurs à pression positive" (PAPR) mettent sous pression légère l'équipement de protection de façon à ce qu'en cas de fuite l'air contaminé ne puisse pas rentrer. C'est la protection utilisée dans les laboratoires de virologie BSL-3 et un des meilleurs équipement possible pour les soignants. [PAPR](https://en.wikipedia.org/wiki/Powered_air-purifying_respirator) (Besoin de traduction wikipedia FR). Le projet utilise un masque de plongée intégral (largement disponible et très bien conçu: Décathlon Easybreath, visiblement plusieurs milliers en stock) qui est confortable et par définition étanche. Il est modifié pour recevoir un équipement de filtration FPP3 à la place du tuba. La désinféction est possible d'après cette [publication](https://www.nature.com/articles/srep39956)
+- **PRESENTATION** Les "respirateurs à pression positive" (PAPR) mettent sous pression légère l'équipement de protection de façon à ce qu'en cas de fuite l'air contaminé ne puisse pas rentrer. C'est la protection utilisée dans les laboratoires de virologie BSL-3 et un des meilleurs équipement possible pour les soignants. [PAPR](https://en.wikipedia.org/wiki/Powered_air-purifying_respirator) (Besoin de traduction wikipedia FR). Le projet utilise un masque de plongée intégral (largement disponible et très bien conçu: Décathlon Easybreath, visiblement plusieurs milliers en stock) qui est confortable et par définition étanche. Il est modifié pour recevoir un équipement de filtration FPP3 à la place du tuba. La désinféction est possible d'après cette [publication](https://www.nature.com/articles/srep39956).
 - **VALIDATION** En cours
 - **TEMPS PAR UNITE**
   - Version simple: environ 2h
@@ -311,10 +311,8 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 ### FAQ
 
 `Comment comptez-vous réunir les imprimantes nécessaires, et où?`
-• Il existe de large parcs d’imprimantes 3D en France, FabLab et universités avec des services en ligne comme [Sculpteo](https://www.sculpteo.com/fr/) qui pourraient être utilisés.
-• Des distributeurs et fabricants d’imprimantes comme [Atome 3D](https://www.atome3d.com/) possèdent de nombreuses imprimantes en stock.
-• Il existe également plusieurs entreprises et universités ayant des parcs d’imprimantes disponibles.
-• Je ne connais pas la taille du parc des imprimantes de particuliers en France, mais je pense qu’il y a plusieurs milliers de machines.
+
+Il existe de large parcs d’imprimantes 3D en France, FabLab et universités ainsi que des services en ligne comme [Sculpteo](https://www.sculpteo.com/fr/) qui pourraient être utilisés. Des distributeurs et fabricants d’imprimantes comme [Atome 3D](https://www.atome3d.com/) possèdent de nombreuses imprimantes en stock. Il existe également plusieurs entreprises ayant des parcs d’imprimantes disponibles. Il doit y avoir plusieurs milliers de machines de particuliers en France et il faudrait les recenser.
 On pourrait imaginer une fois les modèles 3D validés par les experts que la production commence à l’instant même. Une fois configurée une imprimante 3D  n’est pas très différente d’une photocopieuse.
 On pourrait également imaginer que de petits parcs de quelques imprimantes soient installés à coté / dans les hôpitaux pour pallier en flux tendus aux demandes de pièces plastiques : (valves, cartouches jetables, etc.) Il existe des risques de pénuries de pièces détachées suite au fort ralentissement de la production chinoise.
 
@@ -324,7 +322,7 @@ Sculpteo ou d’autres services pourrait fournir les pièces plus complexes en N
 
 `Comment bypasser le protocole d'homologation des produits médicaux?`
 Les matériels médicaux homologués seront évidemment prioritaires par rapport aux matériels imprimés. Il s’agit plutôt de pallier une situation de pénurie critique et vitale avec des solutions rapides.
-Si le cas devait se poser entre aucun respirateur et un respirateur 3D non homologué je pense que le choix pourrait être simple.
+Si le cas devait se poser entre aucune protection et une protection 3D non homologué je pense que le choix pourrait être simple.
 Le design collaboratif médical existe déjà avec des projets de matériel libre (à lire [Matériel libre](https://fr.wikipedia.org/wiki/Mat%C3%A9riel_libre)). Un exemple de projet open-hardware médical est le projet d’écho-stéthoscope à 50€: [Echopen](http://www.echopen.org/)
 
 `Avez-vous en tête un objectif de date pour lancer une production?`
