@@ -278,14 +278,15 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 - **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
 
 <!-- ![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP") -->
-<img src="./assets/images/respirateur-cpap.png" height="300"/>
+<img src="./assets/images/respirateur-cpap.jpg" height="300"/>
 
 ---
 
 #### Valve de dédoublement des respirateurs médicaux (Statut: OK avec réserves) <a name="valve-dedoublement"></a>
 
-- **PRESENTATION** Si les patients ont environ le même volume pulmonaire il est possible d'alimenter jusqu'à 4 patients avec le même respirateur suivant le modèle de respirateur. Cela double potentiellement la capacité de réanimation ventilatoire existante. [Article Hackaday](https://hackaday.com/2020/03/19/saving-4-patients-with-just-1-ventilator/), [Vidéo](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
+- **PRESENTATION** Si les patients ont environ le même volume pulmonaire il est possible d'alimenter jusqu'à 9 patients avec le même respirateur suivant le modèle de respirateur. Cela double potentiellement la capacité de réanimation ventilatoire existante. [Article Hackaday](https://hackaday.com/2020/03/19/saving-4-patients-with-just-1-ventilator/), [Vidéo](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
 - **VALIDATION** Oui avec réserves (Publication: <https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009>)
+[Publication sur l'impression 3D de ces valves](https://www.scirp.org/journal/paperinformation.aspx?paperid=49209)
 - **SITE** [Fichiers 3D](https://github.com/Judoguy12/4-way-ventilator)
 - **TEMPS PAR UNITE** environ 10h
 - **PRIX PAR UNITE** 5€
