@@ -185,8 +185,6 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 
 ---
 
----
-
 #### Projet de masque réutilisables à pression positive PAPR (Statut: En cours) <a name="papr"></a>
 
 - **PRESENTATION** Les "respirateurs à pression positive" (PAPR) mettent sous pression légère l'équipement de protection de façon à ce qu'en cas de fuite l'air contaminé ne puisse pas rentrer. C'est la protection utilisée dans les laboratoires de virologie BSL-3 et un des meilleurs équipement possible pour les soignants. [PAPR](https://en.wikipedia.org/wiki/Powered_air-purifying_respirator) (Besoin de traduction wikipedia FR). Le projet utilise un masque de plongée intégral (largement disponible et très bien conçu: Décathlon Easybreath, visiblement plusieurs milliers en stock) qui est confortable et par définition étanche. Il est modifié pour recevoir un équipement de filtration FPP3 à la place du tuba.
@@ -214,6 +212,9 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - besoin de spécialiste fabriquant / connaissant ces équipements
   - besoin de retour sur la stérilisation (eau bouillante, alcool, UV, impact sur les plastiques et silicones à voir ?)
   - besoin d'ingénieurs et de spécialiste de mécanique des fluides
+
+<img src="./assets/images/masque-papr.png" height="300"/>
+<img src="./assets/images/masque-easybreath.png" height="300"/>
 
 ---
 
