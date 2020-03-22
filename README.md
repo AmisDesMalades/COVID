@@ -156,7 +156,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **VALIDATION** Non validé
 - **TEMPS PAR UNITE** 2h
 - **CAHIER DES CHARGES**
-  - Filament Copper
+  - Filament PLA ou PET
   - Filtre HEPA
 - **MATERIEL**
   - Imprimante 3D
