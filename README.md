@@ -213,8 +213,14 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - besoin de retour sur la stérilisation (eau bouillante, alcool, UV, impact sur les plastiques et silicones à voir ?)
   - besoin d'ingénieurs et de spécialiste de mécanique des fluides
 
-<img src="./assets/images/masque-papr.png" height="300"/>
-<img src="./assets/images/masque-easybreath.png" height="300"/>
+<div>
+  <span>
+    <img src="./assets/images/masque-papr.png" height="300"/>
+  </span>
+  <span>
+    <img src="./assets/images/masque-easybreath.png" height="300"/>
+  </span>
+</div>
 
 ---
 
