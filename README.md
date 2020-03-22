@@ -73,36 +73,43 @@ Avec le soutien des associations:
 - En français: [MOOC: Ventilation COVID-19](https://www.fun-mooc.fr/courses/course-v1:UPEC+169003+cv_01/about)
 - En anglais: [Coursera: COVID-19](https://www.coursera.org/learn/covid-19)
 
-## Logistique <a name="logistique"></a>
+## Production & Logistique <a name="logistique"></a>
 
-- Un des principal problème est l'acheminement des équipements fabriqués vers les hôpitaux et ceux qui en ont besoin. On pourrait imaginer que la Poste, les livreurs ou un autre service récupère la production des particuliers et l'achemine vers les hôpitaux locaux.
-- On pourrait imaginer de petites unités de production de quelques imprimantes situées dans/à coté des hôpitaux qui produiraient en flux tendu les éléments nécessaires pour le personnel soignant.
+### Locale
+
+- Installation de petites unités de production de quelques imprimantes situées dans/à coté des hôpitaux produisant en flux tendu les éléments nécessaires pour le personnel soignant.
+- Une equipe de bénévoles se relayant pour assurer le bon fonctionnement de la production.
+
+### Régionale & nationale
+
+- Production des équipements par les particuliers chez eux.
+- Un particulier bénévole et/ou un professionel bénévole (type pharmacie, supermarché par dépot, etc.) par zone, centralise la production avant de l'envoyer par transporteurs classiques type chronopost vers les hôpitaux et les structures en demande, en privilégiant les circuits courts.
 
 ## Précautions de fabrication <a name="precautions"></a>
 
-- Les éléments produits doivent être fabriqués avec le maximum de précautions: gants, masque, etc.
-- Les pièces finies doivent être rapidement emballées dans des sacs zip hermétiques avec la date et l'heure exacte de fabrication pour éviter d'envoyer du matériel potentiellement contaminé.
-- Le plastique sortant d'une imprimante 3D est à plus de 200 degrés, il est donc stérilisé.
-- La durée de vie du virus sur le plastique étant de 2-3 jours, le matériel devra être porté 2-3 jours après sa fabrication pour garantir qu'il n'y ai pas de contamination.
+- Le plastique étant chauffé lors de l'impression à plus de 200 degres, il n'est pas nécessaire de stériliser les bobines de filaments.
+- Les éléments produits seront fabriqués avec le maximum de précautions suivant les possibilités sur place: gants, masque, etc.
+- Les pièces finies seront emballées dès la fin de l'impression dans des sacs zip hermétiques classiques avec la date et l'heure exacte de fabrication pour éviter l'envoi de tout matériel potentiellement contaminé.
+- La durée de vie du virus sur le plastique PLA est supposée être comprise entre de 2 et 5 jours (non-confirmée), le matériel devra donc être porté après ce delais pour garantir leur non-contamination au COVID-19.
 
 ## Contribuer maintenant <a name="contribuer"></a>
 
 ### Vous avez une / des imprimantes
 
-- Vous pouvez dès à présent configurer vos imprimantes pour assurer la non-contamination de votre production. Procédez comme si vous étiez contaminés: gants, masques, etc. Si possible faites valider votre installation de production par un professionnel de santé.
+- Afin de minimiser la contamination des pièces produites, procédez comme si vous étiez contaminés: gants, masques, etc.
 - Acheter des stocks de filament PLA et PET (sans vider les stocks) afin de pouvoir imprimer en continu 24/24 pendant plusieurs jours/semaines.
 - Acheter les autres stocks nécessaires (sans vider les stocks): Feuilles plastiques transparentes, bandes élastiques, pochettes zip hermétiques pour l'envoi avec date de production marquée, etc.
-- Mobiliser vos amis ayant des capacités de production rapide et vérifier la conformité de leur installation.
+- Mobiliser vos amis ayant des capacités de production rapide.
 
-### Vous avez une expertise utile
+### Vous avez une expertise utile ou souhaitez être bénévole
 
 - Rejoindre un des projets de la liste ou participer à l'appel à projet du ministère de la défense. [Appel à projet FR](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
-- Si vous êtes un expert qui peut suivre des conversations techniques en anglais, rejoindre [Helful Engineer](https://github.com/Helpful-Engineers/resources). Une partie des projets de cette page est une traduction française de ces projets.
+- Si vous êtes un expert qui peut suivre des conversations techniques en anglais, rejoindre [Helpful Engineer](https://github.com/Helpful-Engineers/resources). Une partie des projets de cette page est une traduction française de ces projets.
 - Rajouter des projets, corriger des fautes en faisant une Pull Request sur ce repository.
 
 ---
 
-## Liste des projets intéressants <a name="liste"></a>
+## Liste des projets prometteurs <a name="liste"></a>
 
 Veuillez me contacter à cette adresse <philippe@cochin.fr> si vous souhaitez ajouter des projets à cette liste. Une partie de ces projets est accessible en anglais depuis cette page: <https://docs.google.com/spreadsheets/d/19BU6PRRLOAudCeL-yfuzkKgpkxPu5_wGnnUQsEWHfA4/edit#gid=1357829364>
 
@@ -112,7 +119,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 
 ---
 
-#### Visière de protection imprimée Prusa (Statut: OK) <a name="visiere-prusa"></a>
+#### Visière de protection imprimée Prusa (Statut: validé) <a name="visiere-prusa"></a>
 
 - **PRESENTATION** Le retour des médecins urgentistes "au front" montre qu'il y a de nombreuses projections contaminantes par les patients. Les autres personnes exposées comme les médecins de ville, caissiers, etc. pourraient également bénéficier de ces visières. La production par les particuliers a déjà commencé.
 - **SITE** <https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1>
@@ -227,9 +234,8 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 
 ### RESPIRATEURS D'URGENCE <a name="liste-respirateurs"></a>
 
-Les anglais estiment à 25000 le pic de besoin en respirateurs, ils en ont visiblement 5000 disponibles. Plusieurs idées et projets pourraient être d’une utilité vitale.
-Une communauté active de plusieurs centaines de personnes travaille dèjà (en anglais) sur ces projets [Helpful Engineers](https://github.com/Helpful-Engineers/resources)
-Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autoremplisseur à valve unidirectionnelle](https://fr.wikipedia.org/wiki/Ballon_autoremplisseur_%C3%A0_valve_unidirectionnelle) largement disponibles et homologués (aussi appellés Ambubag et BVM, BAVU).
+Plusieurs idées et projets sont en cours de dévelopement dans différents pays et sont gérés par une communauté active de plusieurs centaines de personnes (en anglais) [Helpful Engineers](https://github.com/Helpful-Engineers/resources)
+Les projets les plus avancés sont autour de l'utilisation des [Ballon autoremplisseur à valve unidirectionnelle](https://fr.wikipedia.org/wiki/Ballon_autoremplisseur_%C3%A0_valve_unidirectionnelle) largement disponibles dans les hôpitaux et homologués (aussi appellés Ambubag et BVM, BAVU).
 
 ---
 
@@ -274,7 +280,7 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 
 ### Projet d'adaptation de respirateur CPAP (Statut: Avancé) <a name="respirateur-cpap"></a>
 
-- **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé, le matériel est déja homologué (pas ses modifications).
+- **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. Le matériel étant déja homologué, seulement les modifications logiciels et un test pratique seront nécessaires).
 - **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
 
 <!-- ![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP") -->
@@ -284,7 +290,7 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 
 #### Valve de dédoublement des respirateurs médicaux (Statut: OK avec réserves) <a name="valve-dedoublement"></a>
 
-- **PRESENTATION** Si les patients ont environ le même volume pulmonaire il est possible d'alimenter jusqu'à 9 patients avec le même respirateur suivant le modèle de respirateur. Cela double potentiellement la capacité de réanimation ventilatoire existante. [Article Hackaday](https://hackaday.com/2020/03/19/saving-4-patients-with-just-1-ventilator/), [Vidéo](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
+- **PRESENTATION** il est possible d'alimenter jusqu'à 9 patients avec le même respirateur suivant le modèle de respirateur. Les patients doivent avoir environ le même volume pulmonaire et le même stade de la maladie. Cela augmenterait significativement la capacité de réanimation ventilatoire existante. [Article Hackaday](https://hackaday.com/2020/03/19/saving-4-patients-with-just-1-ventilator/), [Vidéo](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
 - **VALIDATION** Oui avec réserves (Publication: <https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009>)
 [Publication sur l'impression 3D de ces valves](https://www.scirp.org/journal/paperinformation.aspx?paperid=49209)
 - **SITE** [Fichiers 3D](https://github.com/Judoguy12/4-way-ventilator)
@@ -305,7 +311,7 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 
 #### Respirateurs vétérinaires <a name="respirateur-veterinaire"></a> (Statut: En cours)
 
-- Il semblerait que les anglais aient réquisitionné certains ventilateurs vétérinaires possèdant des caractéristiques similaires à celles des respirateurs "humains".
+- L'utilisation de certains ventilateurs vétérinaires possèdant des caractéristiques similaires à celles des respirateurs "humains".
 
 - L’impression 3D pourrait également permettre d’imprimer localement les différents éléments : valves, etc. dont les hôpitaux pourraient avoir besoin comme le cas italien des valves à 10.000€ imprimées à 1€. [Article sur la fabrication des valves en Italie](https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/amp/)
 
@@ -322,20 +328,21 @@ Une idée serait d’avoir dans/à coté de l’hôpital un petit parc d’impri
 Sculpteo ou d’autres services pourrait fournir les pièces plus complexes en Nylon, etc. et les livrer.
 
 `Comment bypasser le protocole d'homologation des produits médicaux?`
-Les matériels médicaux homologués seront évidemment prioritaires par rapport aux matériels imprimés. Il s’agit plutôt de pallier une situation de pénurie critique et vitale avec des solutions rapides.
-Si le cas devait se poser entre aucune protection et une protection 3D non homologué je pense que le choix pourrait être simple.
+Les matériels médicaux homologués seront évidemment prioritaires par rapport aux matériels imprimés et par rapport à l'extension des fonctionnalités d'autres machines médicales. Il s’agit plutôt de pallier une situation de pénurie critique et vitale avec des solutions rapides.
 Le design collaboratif médical existe déjà avec des projets de matériel libre (à lire [Matériel libre](https://fr.wikipedia.org/wiki/Mat%C3%A9riel_libre)). Un exemple de projet open-hardware médical est le projet d’écho-stéthoscope à 50€: [Echopen](http://www.echopen.org/)
 
 `Avez-vous en tête un objectif de date pour lancer une production?`
-La production pourrait commencer instantément une fois les modèles 3D basiques conçus avec la possibilité d’une amélioration de la qualité des pièces avec le retour des utilisateurs suivant le modèle open-source.
+La production pourrait commencer très rapidement une fois les modèles 3D basiques conçus avec la possibilité d’une amélioration de la qualité des pièces avec le retour des utilisateurs suivant le modèle open-source et le recensement des participants et bénévoles.
 
 Les étapes de ce circuit court en heures / jours pourraient être:
 
 - Dessin paramétrique 3D d’un modèle basique fonctionnel
 - Validation par un panel d’experts et ingénieurs confinés ou à la retraite
 - Publication du modèle 3D libre de droit sur des plateforme de distribution comme GitHub ou Thingiverse.
-- Téléchargement gratuit du modèle 3D par les parcs d’imprimantes / particuliers
-- Impression des pièces dans l’hôpital ou livraison express
+- Mobilisation des participants et bénévoles par email
+- Téléchargement gratuit du modèle 3D par les participants
+- Impression des pièces
+- Acheminement soit via un centralisateur bénévole soit par un professionel bénévole (type pharmacie, supermarché)
 - Retour des soignants sur les défauts / amélioration des pièces produites.
 - Nouveau cycle de dessin, d’amélioration, impression et distribution pour la v2, v3, etc. tous les quelques jours.
 
