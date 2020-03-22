@@ -127,7 +127,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **PRIX PAR UNITE** 1-2€
   
 <!-- ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2") -->
-<img src="./assets/images/prusa-rc2.png" height="250"/>
+<img src="./assets/images/prusa-rc2.png" height="300"/>
 
 ---
 
@@ -145,7 +145,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **PRIX PAR UNITE** 1-2€
   
 <!-- ![Visière Laser](/assets/images/visiere-laser.png "Visière Laser") -->
-<img src="./assets/images/visiere-laser.png" height="250"/>
+<img src="./assets/images/visiere-laser.png" height="300"/>
 
 ---
 
@@ -162,7 +162,8 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Imprimante 3D
 - **PRIX PAR UNITE** 5€
 
-![Masque Italien](/assets/images/masque-italien.png "Masque italien")
+<!-- ![Masque Italien](/assets/images/masque-italien.png "Masque italien") -->
+<img src="./assets/images/masque-italien.png" height="300"/>
 
 ---
 
@@ -180,7 +181,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **PRIX PAR UNITE** 5€
 
 <!-- ![Masque Copper](/assets/images/masque-copper-2.png "Masque Copper") -->
-<img src="./assets/images/masque-copper-2.png" height="250"/>
+<img src="./assets/images/masque-copper-2.png" height="300"/>
 
 ---
 
@@ -241,10 +242,10 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 ![Respirateur Ambubag](/assets/images/respirateur-ambubag-2.png "respirateur ambubag") -->
 <div>
   <span>
-    <img src="./assets/images/respirateur-ambubag-1.png" height="250"/>
+    <img src="./assets/images/respirateur-ambubag-1.png" height="300"/>
   </span>
   <span>
-    <img src="./assets/images/respirateur-ambubag-2.png" height="250"/>
+    <img src="./assets/images/respirateur-ambubag-2.png" height="300"/>
   </span>
 </div>
 
@@ -259,7 +260,7 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
   - <https://opensourceventilator.ie/>
 
 <!-- ![Respirateur OpenLung](/assets/images/respirateur-openlung.png "respirateur openlung") -->
-<img src="./assets/images/respirateur-openlung.png" height="250"/>
+<img src="./assets/images/respirateur-openlung.png" height="300"/>
 
 ---
 
@@ -269,7 +270,7 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 - **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
 
 <!-- ![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP") -->
-<img src="./assets/images/respirateur-cpap.png" height="250"/>
+<img src="./assets/images/respirateur-cpap.png" height="300"/>
 
 ---
 
@@ -287,7 +288,7 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
   - A quel point cela gène-t'il les patients?
 
 <!-- ![Valve de dédoublement](/assets/images/valve-dedoublement.png "2-way valve") -->
-<img src="./assets/images/valve-dedoublement.png" height="250"/>
+<img src="./assets/images/valve-dedoublement.png" height="300"/>
 
 ---
 
