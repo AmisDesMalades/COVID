@@ -30,8 +30,9 @@ Avec le soutien des associations:
    1. [Protections](#liste-protections)
       1. [Visière PRUSA](#visiere-prusa)
       2. [Visière laser](#visière-laser)
-      3. [Masque Copper](#masque-copper)
-      4. [PAPR](#papr)
+      3. [Masque OpenMask](#masque-opensourcemask)
+      4. [Masque Copper](#masque-copper)
+      5. [PAPR](#papr)
    2. [Respirateurs](#liste-respirateurs)
       1. [Respirateur Ambubag](#respirateur-ambubag)
       2. [Respirateur OpenLung](#respirateur-openlung)
@@ -125,7 +126,8 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Perforeuse de bureau
 - **PRIX PAR UNITE** 1-2€
   
-![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2")
+<!-- ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2") -->
+<img src="./assets/images/prusa-rc2.jpeg" height="200"/>
 
 ---
 
@@ -142,7 +144,25 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Découpeuse laser
 - **PRIX PAR UNITE** 1-2€
   
-![Visière Laser](/assets/images/visiere-laser.png "Visière Laser")
+<!-- ![Visière Laser](/assets/images/visiere-laser.png "Visière Laser") -->
+<img src="./assets/images/visiere-laser.jpeg" height="200"/>
+
+---
+
+#### Masque de protection OpenSourceMask <a name="masque-opensourcemask"></a>
+
+- **PRESENTATION** Masque de protection open-source venant d'Italie. Il semble recommandé par cet [article allemand](https://mobilitygoesadditive.org/market-de/coronavirus-your-3d-printing-expertise-is-needed-urgent-request-from-the-european-commission/?lang=de) et ce [groupe italien](http://www.aitasit.org/wp49/)
+- **SITE** <https://www.opensourcemask.com/en/>
+- **VALIDATION** Non validé
+- **TEMPS PAR UNITE** 2h
+- **CAHIER DES CHARGES**
+  - Filament Copper
+  - Filtre HEPA
+- **MATERIEL**
+  - Imprimante 3D
+- **PRIX PAR UNITE** 5€
+
+![Masque Italien](/assets/images/masque-italien.png "Masque italien")
 
 ---
 
@@ -159,7 +179,10 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Imprimante 3D
 - **PRIX PAR UNITE** 5€
 
-![Masque Copper](/assets/images/masque-copper-2.png "Masque Copper")
+<!-- ![Masque Copper](/assets/images/masque-copper-2.png "Masque Copper") -->
+<img src="./assets/images/masque-copper-2.jpeg" height="200"/>
+
+---
 
 ---
 
@@ -263,7 +286,7 @@ Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autore
 
 - Il semblerait que les anglais aient réquisitionné certains ventilateurs vétérinaires possèdant des caractéristiques similaires à celles des respirateurs "humains".
 
-- L’impression 3D pourrait également permettre d’imprimer localement les différents éléments : valves, etc. dont les hôpitaux pourraient avoir besoin comme le cas italien des valves à 10.000€ imprimées à 1€.
+- L’impression 3D pourrait également permettre d’imprimer localement les différents éléments : valves, etc. dont les hôpitaux pourraient avoir besoin comme le cas italien des valves à 10.000€ imprimées à 1€. [Article sur la fabrication des valves en Italie](https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/amp/)
 
 ### FAQ
 
@@ -299,6 +322,6 @@ Les étapes de ce circuit court en heures / jours pourraient être:
 
 `Qui êtes-vous?`
 
-- J’ai cofondé une NGO médicale il y plus de 10 ans [Action Aide Asie (Loi 1901)](http://actionaideasie.com/) avec lequel j’ai fait plusieurs dizaines de missions en Asie du Sud-Est, je m’occupe également d’une association de précarité lourde en milieu hospitalier en France. Les Amis des Malades de l'Hôpital Cochin (RUP)](http://amisdesmalades.com/)
+- J’ai cofondé une NGO médicale il y plus de 10 ans [Action Aide Asie (Loi 1901)](http://actionaideasie.com/) avec lequel j’ai fait plusieurs dizaines de missions en Asie du Sud-Est, je m’occupe également d’une association de précarité lourde en milieu hospitalier en France. [Les Amis des Malades de l'Hôpital Cochin (RUP)](http://amisdesmalades.com/)
 - Mon oncle Christophe est responsable d'un hôpital COVID-19 dans le Nord et son fils Romain est en première ligne comme médecin militaire urgentiste dans l’Est. Je suis en contact avec eux.
 - L'expérience que j'ai acquise du système de santé des pays en voie de développement lors de mes missions montre le courage et la capacité d'adaptation des médecins face à la pénurie d'équipement, ces mêmes qualités dont nous avons besoin maintenant en France.
