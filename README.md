@@ -196,6 +196,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 #### Projet de masque réutilisables à pression positive PAPR (Statut: En cours) <a name="papr"></a>
 
 - **PRESENTATION** Les "respirateurs à pression positive" (PAPR) mettent sous pression légère l'équipement de protection de façon à ce qu'en cas de fuite l'air contaminé ne puisse pas rentrer. C'est la protection utilisée dans les laboratoires de virologie BSL-3 et un des meilleurs équipement possible pour les soignants. [PAPR](https://en.wikipedia.org/wiki/Powered_air-purifying_respirator) (Besoin de traduction wikipedia FR). Le projet utilise un masque de plongée intégral (largement disponible et très bien conçu: Décathlon Easybreath, visiblement plusieurs milliers en stock) qui est confortable et par définition étanche. Il est modifié pour recevoir un équipement de filtration FPP3 à la place du tuba. La désinféction est possible d'après cette [publication](https://www.nature.com/articles/srep39956).
+- **SITE** [Article et vidéo en italien](http://italianismo.com.br/2020/03/23/na-italia-engenheiro-cria-respirador-a-partir-de-mascara-de-mergulho/)
 - **VALIDATION** En cours
 - **TEMPS PAR UNITE**
   - Version simple: environ 2h
@@ -285,6 +286,14 @@ Les projets les plus avancés sont autour de l'utilisation des [Ballon autorempl
 
 <!-- ![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP") -->
 <img src="./assets/images/respirateur-cpap.jpg" height="300"/>
+
+---
+
+### Projet de respirateur Ventilaid (Statut: Non validé)
+
+- **PRESENTATION** Un projet de ventilateur avancé sans validation médicale basé sur l'utilisation d'un piston de compression.
+- **SITE** [Fichiers et Code](https://gitlab.com/Urbicum/ventilaid)
+<img src="./assets/images/respirateur-ventilaid.jfif" height="300"/>
 
 ---
 
