@@ -247,6 +247,23 @@ Les projets les plus avancés sont autour de l'utilisation des [Ballon autorempl
 
 ---
 
+#### Respirateur "Leitat" (Statut: validé) <a name="respirateur-leitat"></a>
+
+- **PRESENTATION** Un consortium regroupant le constructeur automobile SEAT, le Barcelona Free Zone Consortium (CZFB), la multinationale HP et Leitat a permis de mettre au point le premier ventilateur imprimé 3D destiné aux hôpitaux et aux unités de soins intensifs.
+- **VALIDATION** Validation médicale du Dr Lluís Blanch, directeur de l’innovation de l’hôpital Parc Taulí de Sabadell et expert en ventilation mécanique.
+- **SITE** <http://www.primante3d.com/covid-19-premier-respirateur-23032020/>
+  
+<div>
+  <span>
+    <img src="./assets/images/respirateur-leitat-1.jfif" height="300"/>
+  </span>
+  <span>
+    <img src="./assets/images/respirateur-leitat-2.jfif" height="300"/>
+  </span>
+</div>
+
+---
+
 #### Respirateur basique "Ambubag" (Statut: en cours) <a name="respirateur-ambubag"></a>
 
 - **PRESENTATION** Un mécanisme simple transforme un ambubag de ventilation manuel en un ambubag automatisé.
