@@ -31,13 +31,13 @@ Avec le soutien des associations:
       1. [Visière PRUSA](#visiere-prusa)
       2. [Visière laser](#visière-laser)
       3. [Masque OpenMask](#masque-opensourcemask)
-      4. [Masque Copper](#masque-copper)
-      5. [PAPR](#papr)
+      4. [Masque Easybreath](#masque-easybreath)
    2. [Respirateurs](#liste-respirateurs)
-      1. [Respirateur Ambubag](#respirateur-ambubag)
+      1. [Repirateur Leitat](#respirateur-leitat)
       2. [Respirateur OpenLung](#respirateur-openlung)
-      3. [Respirateur CPAP](#respirateur-cpap)
-      4. [Valve de dédoublement](#valve-dedoublement)
+      3. [Respirateur Ambubag](#respirateur-ambubag)
+      4. [Respirateur CPAP](#respirateur-cpap)
+      5. [Valve de dédoublement](#valve-dedoublement)
    3. [Autres](#autres)
       1. [Respirateur vétérinaire](#respirateur-veterinaire)
 3. [FAQ](#faq)
@@ -175,25 +175,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 
 ---
 
-#### Masque de protection FPP2 jetable imprimé 3D (Statut: Non validé) <a name="masque-copper"></a>
-
-- **PRESENTATION** Impression d'un masque N95 (FPP2) utilisant du filament Copper3D qui semblerait indiqué pour le matériel médical.
-- **SITE** <https://www.atome3d.com/blogs/news/hackthepandemic-creez-votre-masque-3d>
-- **VALIDATION** Non validé
-- **TEMPS PAR UNITE** 2h 30
-- **CAHIER DES CHARGES**
-  - Filament Copper
-  - Filtre HEPA
-- **MATERIEL**
-  - Imprimante 3D
-- **PRIX PAR UNITE** 5€
-
-<!-- ![Masque Copper](/assets/images/masque-copper-2.png "Masque Copper") -->
-<img src="./assets/images/masque-copper-2.png" height="300"/>
-
----
-
-#### Projet de masque réutilisables à pression positive PAPR (Statut: En cours) <a name="papr"></a>
+#### Projet de modification Decathlon EasyBreath -> PAPR (Statut: En cours) <a name="masque-easybreath"></a>
 
 - **PRESENTATION** Les "respirateurs à pression positive" (PAPR) mettent sous pression légère l'équipement de protection de façon à ce qu'en cas de fuite l'air contaminé ne puisse pas rentrer. C'est la protection utilisée dans les laboratoires de virologie BSL-3 et un des meilleurs équipement possible pour les soignants. [PAPR](https://en.wikipedia.org/wiki/Powered_air-purifying_respirator) (Besoin de traduction wikipedia FR). Le projet utilise un masque de plongée intégral (largement disponible et très bien conçu: Décathlon Easybreath, visiblement plusieurs milliers en stock) qui est confortable et par définition étanche. Il est modifié pour recevoir un équipement de filtration FPP3 à la place du tuba. La désinféction est possible d'après cette [publication](https://www.nature.com/articles/srep39956).
 - **SITE** [Article et vidéo en italien](http://italianismo.com.br/2020/03/23/na-italia-engenheiro-cria-respirador-a-partir-de-mascara-de-mergulho/)
@@ -249,9 +231,11 @@ Les projets les plus avancés sont autour de l'utilisation des [Ballon autorempl
 
 #### Respirateur "Leitat" (Statut: validé) <a name="respirateur-leitat"></a>
 
-- **PRESENTATION** Un consortium regroupant le constructeur automobile SEAT, le Barcelona Free Zone Consortium (CZFB), la multinationale HP et Leitat a permis de mettre au point le premier ventilateur imprimé 3D destiné aux hôpitaux et aux unités de soins intensifs.
+- **PRESENTATION** Un consortium regroupant le constructeur automobile SEAT, le Barcelona Free Zone Consortium (CZFB), la multinationale HP et Leitat a permis de mettre au point le premier ventilateur imprimé 3D destiné aux hôpitaux et aux unités de soins intensifs. Les plans ne sont pas disponibles.
 - **VALIDATION** Validation médicale du Dr Lluís Blanch, directeur de l’innovation de l’hôpital Parc Taulí de Sabadell et expert en ventilation mécanique.
-- **SITE** <http://www.primante3d.com/covid-19-premier-respirateur-23032020/>
+- **SITE**
+  - <https://www.leitat.org/castellano/>
+  - <http://www.primante3d.com/covid-19-premier-respirateur-23032020/>
   
 <div>
   <span>
@@ -261,6 +245,19 @@ Les projets les plus avancés sont autour de l'utilisation des [Ballon autorempl
     <img src="./assets/images/respirateur-leitat-2.jfif" height="300"/>
   </span>
 </div>
+
+---
+
+#### Respirateur OpenLung (Statut: avancé)<a name="respirateur-openlung"></a>
+
+- **PRESENTATION** Un projet avancé qui transforme un ambubag de ventilation manuel en respirateur automatisé. (Besoin de traduction FR)
+- **VALIDATION** En cours, médecins liés au projet.
+- **SITE**
+  - <https://gitlab.com/TrevorSmale/OSV-OpenLung>
+  - <https://opensourceventilator.ie/>
+
+<!-- ![Respirateur OpenLung](/assets/images/respirateur-openlung.png "respirateur openlung") -->
+<img src="./assets/images/respirateur-openlung.png" height="300"/>
 
 ---
 
@@ -280,19 +277,6 @@ Les projets les plus avancés sont autour de l'utilisation des [Ballon autorempl
     <img src="./assets/images/respirateur-ambubag-2.png" height="300"/>
   </span>
 </div>
-
----
-
-#### Respirateur OpenLung (Statut: avancé)<a name="respirateur-openlung"></a>
-
-- **PRESENTATION** Un projet avancé qui transforme un ambubag de ventilation manuel en respirateur automatisé. (Besoin de traduction FR)
-- **VALIDATION** En cours, médecins liés au projet.
-- **SITE**
-  - <https://gitlab.com/TrevorSmale/OSV-OpenLung>
-  - <https://opensourceventilator.ie/>
-
-<!-- ![Respirateur OpenLung](/assets/images/respirateur-openlung.png "respirateur openlung") -->
-<img src="./assets/images/respirateur-openlung.png" height="300"/>
 
 ---
 
